@@ -1,4 +1,3 @@
-![alt text](?raw=true)
 <h1 align="center">Hi 👋, I'm Fransiskus</h1>
 <h3 align="center">About</h3>
 <p align="center">Hii ,,
