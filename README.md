@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fransiskus</h1>
+<h1 align="center">Hii 👋, I'm Fransiskus</h1>
 <h3 align="center">About</h3>
-<p align="center">Hii ,,
-I'm a High School Graduate Majoring In Software Engineering, and undergraduate Technology Information, Experience on IT Supports, HelpDesk.</p>
+<p align="center">I'm a High School Graduate Majoring In Software Engineering, and undergraduate Technology Information, Experience on IT Supports, HelpDesk.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
